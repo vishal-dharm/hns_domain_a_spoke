@@ -22,3 +22,5 @@ explore: +order_items {
     relationship: many_to_one
   }
 }
+
+explore: domain_hub_project_table {}
